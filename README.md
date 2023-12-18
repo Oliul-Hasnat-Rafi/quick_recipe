@@ -1,16 +1,10 @@
-# quick_recipe
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 align="center" id="title">Quick Recipe</h1>
+<p align="center">
+  <b>Project Screenshots</b>
+  <br><br>
+  <img src="https://i.postimg.cc/wjXtHDrs/Screenshot-20231218-202525.jpg" width="250" height = "500" >
+  <img src="https://i.postimg.cc/xd9Xdcrp/Screenshot-20231218-202540.jpg" width="250" height = "500">
+  <br><br>
+  <img src="https://i.postimg.cc/QMSHKhh8/Screenshot-20231218-202548.jpg" width="250" height = "500" >
+  <img src="https://i.postimg.cc/P5sLBSSj/Screenshot-20231218-202626.jpg" width="250" height = "500">
+</p>
